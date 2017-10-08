@@ -1,14 +1,12 @@
 ## exercise 2 -- if/else statement
-## now you now how to do the basic syntax in R, let's play with by using if/else statements
-## the game is called 'is it going to rain later in Seattle?'
+## now you know how to do the basic syntax in R, let's play with if/else statements
+## the game is called 'is it going to rain in Seattle?'
 
 ## make a variable called 'chance_of_rain' and assign it to be 0
 
 ## assign 'true' or 'false' to a variable named 'I_saw_raindrops'
 
 ## assign 'true' or 'false' to a variable named 'my_shoes_are_wet'
-
-## assign 'true' or 'false' to a variable named 'there_is_traffic'
 
 ## assign 'true' or 'false' to a variable named 'my_ta_is_soaked'
 
@@ -17,15 +15,12 @@
 ## ok, now you have your variables ready to go.
 
 ## make an if statement that checks whether you saw raindrops
-## if you did, chance of rain goes up by 40 percent
+## if you did, set chance_of_rain to 100
 
-## make an if statement that checks whether your shoes are wet
-## if you did, chance of rain goes up by 20 percent
+## else make an if statement that checks whether your shoes are wet
+## if they are, chance of rain goes up by 40 percent
 
-## make an if statement that checks whether there is traffic
-## if you did, chance of rain goes up by 10 percent
-
-## make an if statement that checks whether your TA is soaked
+## else make an if statement that checks whether your TA is soaked
 ## if you did, chance of rain goes up by 10 percent
 
 ## make an if statement that checks whether you love cookies
