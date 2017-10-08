@@ -21,7 +21,7 @@
 ## if they are, chance of rain goes up by 40 percent
 
 ## else make an if statement that checks whether your TA is soaked
-## if you did, chance of rain goes up by 10 percent
+## if you did, chance of rain goes up by 50 percent
 
 ## make an if statement that checks whether you love cookies
 ## if you don't, give a reason why not
