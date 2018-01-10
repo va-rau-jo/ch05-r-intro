@@ -27,6 +27,7 @@
 ## if you don't, give a reason why not
 
 ## Finally print out a sentence that says 'The chance of rain in Seattle is (the number stored in chance_of_rain variable) percent'
+## (You are doing predictive analysis here :-)
 
 ## bonus:
 ## how to make write this exercise in a function??
